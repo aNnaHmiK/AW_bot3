@@ -1,0 +1,4 @@
+discord == 1.7.3
+discord.py ==  2.0.0a3391+gf14e5843
+imbed == 0.1.0
+Datetime == 4.3
