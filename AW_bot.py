@@ -2,11 +2,12 @@ import discord
 from discord.embeds import Embed
 import random
 import datetime
+import os
 
 
 client = discord.Client()
 
-token = "ODY0NTI1NzQyNzI1NzkxODQ0.YO2uVw.qhBnglQ6zT2HlZqrwu3jJUbXk4A"
+token = os.environ["BOT_TOKEN"]
 
 
 
